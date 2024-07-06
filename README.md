@@ -12,4 +12,4 @@ This repository contains the code and data for managing a comprehensive writing 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/WritingContentDatabase.git
+   git clone https://github.com/projxbynick/WritingContentDatabase.git
